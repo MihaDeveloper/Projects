@@ -179,7 +179,7 @@ body {
     width: 32px;
     height: 32px;
     border: none;
-    background: transparent url("/image/left-arrow.svg") no-repeat center;
+    background: transparent url("https://raw.githubusercontent.com/MihaDeveloper/Projects/0b56f5794c1d9a54fb018253302e7c91bd5c878e/Звездные%20Войны%209%20часть/image/left-arrow.svg") no-repeat center;
     cursor: pointer;
     margin-right: 15px;
 
@@ -188,7 +188,7 @@ body {
     width: 32px;
     height: 32px;
     border: none;
-    background: transparent url("/image/right-arrow.svg") no-repeat center;
+    background: transparent url("https://raw.githubusercontent.com/MihaDeveloper/Projects/0b56f5794c1d9a54fb018253302e7c91bd5c878e/Звездные%20Войны%209%20часть/image/right-arrow.svg") no-repeat center;
     cursor: pointer;
 
 }
