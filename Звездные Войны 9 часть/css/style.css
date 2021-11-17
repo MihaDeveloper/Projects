@@ -14,7 +14,7 @@
    margin: 0;
 }
 body {
-    background:#070506 url(https://github.com/MihaDeveloper/Projects/blob/main/Звездные%20Войны%209%20часть/image/main-bg.png?raw=true) top   right 70% no-repeat;
+    background:#070506 url("/image/main-bg.png") top   right 70% no-repeat;
     background-attachment: fixed;
     color: white;
     font-family: "Roboto", sans-serif;
@@ -198,6 +198,9 @@ body {
 }
 
 @media (max-width: 600px) {
+    body{
+        background :#070506 url(https://github.com/MihaDeveloper/Projects/blob/main/Звездные%20Войны%209%20часть/image/main-bg.png?raw=true) top left 60%   no-repeat;
+    }
     .hero__subtitle{
         font-size: 24px;
         line-height: 120%;
