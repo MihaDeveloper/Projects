@@ -1,0 +1,18 @@
+*{
+    background-color: wheat;
+    height:300px;
+    outline: 1px solid red;
+}
+.box{
+    display: inline;
+    width : 200px;
+    height: 200px;
+    background-color:sienna;
+    padding: 30px 0px 5px 15px;
+    border: 23px;
+    margin: 30px 50px 1px 40px;
+    border-color: greenyellow;
+    border-style: dotted;
+    text-align:center;
+   
+}
